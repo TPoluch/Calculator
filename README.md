@@ -8,4 +8,3 @@ Developed this in Python using Tkinter
 2. Install Tkinter if you do not already have it
 3. Run the .py file
 
-<img src="Calculator.png">
