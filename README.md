@@ -116,4 +116,3 @@ button_clear.grid(row=1, column=0, columnspan=4)
 
 root.mainloop()
 
-```python
